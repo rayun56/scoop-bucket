@@ -7,6 +7,7 @@
         ".NET Desktop Runtime": "extras/windowsdesktop-runtime"
     },
     "url": "https://github.com/aelurum/AssetStudio/releases/download/v0.19.0/AssetStudioModGUI_net9_win64.zip",
+    "extract_dir": "AssetStudioModGUI_net9_win64",
     "hash": "ACBA8D024FBCB625B8F6A4CBC9E3C83E6274ABB637D1A11C3C0615A9D45305AF",
     "bin": "AssetStudioModGUI.exe",
     "shortcuts": [
